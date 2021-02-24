@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Mail]("mailto:noe.germako@gmail.com?") and ![Image](photo.png)
+<Mail><"mailto:noe.germako@gmail.com?"> and ![Image](photo.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
