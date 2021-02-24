@@ -1,4 +1,4 @@
-## USIDOH - Fouille de données
+## USID0H - Fouille de données
 
 You can use the [editor on GitHub](https://github.com/noeger/USID0H/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Mail](noe.germako@gmail.com) and ![Image](src)
+[Mail](mailto:noe.germako@gmail.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
